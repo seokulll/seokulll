@@ -14,7 +14,3 @@ I'm a Computer Engineering student currently balancing coursework with personal 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
 </p>
-
----
-
-> _"Going in one more round when you don't think you can—that's what makes all the difference in your life."_
